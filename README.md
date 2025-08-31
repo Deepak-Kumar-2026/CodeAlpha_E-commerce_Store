@@ -57,12 +57,10 @@ node server.js
 ## !Home Page
 <img width="1915" height="833" alt="Screenshot 2025-08-31 155254" src="https://github.com/user-attachments/assets/54514861-a3bd-4c68-84a6-eda87ef0db0d" />
 
-
 ## Product Page
 <img width="476" height="822" alt="Screenshot 2025-08-31 155321" src="https://github.com/user-attachments/assets/6adf5c41-7bb5-4669-bef4-29c0c1f0f2f4" />
 
 ## Login And Register Page
-
 <img width="982" height="423" alt="Screenshot 2025-08-31 155303" src="https://github.com/user-attachments/assets/e658c74c-dbb2-416b-99ff-77ad62b536e7" />
 
 
